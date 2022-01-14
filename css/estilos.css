@@ -1,0 +1,60 @@
+body{
+    background-color: #d5d5d5;
+    /*Preferi por a cor de borda no background e criar uma margem entre os contêiners, porque o resultado com a borda não estava ficando interessante*/
+}
+div{
+    background-color: #f5f5f5;
+    padding: 50px;
+    /* border-top: 10px solid #d5d5d5; */
+    margin: 10px auto;
+    font-family: Arial;
+    /*Apliquei a fonte Arial na propriedade div para não ter que aplicar em cada um dos elementos de texto, já que a fonte seria a mesma para todos. Também escolhi a Arial, pois a Tahoma não estava apresentando nenhuma mudança com relação a fonte padrão - por motivos que desconheço */
+    
+
+}
+h1{
+    text-align: center;
+    
+
+}
+img{
+    width: 190px;
+    margin: 5px auto;
+    text-align: center;
+
+}
+h2{
+    font-size: 24px;
+    text-align: center;
+    ;
+
+}
+h3{
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+    line-height: 28px;
+    width: 930px;
+    margin: 0 auto;
+
+}
+span{
+    font-weight: bold;
+
+}
+a{
+    background-color: rgb(85, 189, 85);
+    font-size: 14px;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 80px;
+    
+    
+
+}
+#link{
+    margin-top: 10px;
+}
